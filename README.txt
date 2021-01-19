@@ -1,5 +1,5 @@
 Name: Benjamin Simon
-Project: Project 0 [insert github here]
+Project: Project 0 https://github.com/bhsimon97/Project0/
 
 Features Completed: 
 
